@@ -1,0 +1,7 @@
+TestBeds:
+  - Name: android_settings_test
+    Controllers:
+      AndroidDevice:
+        - serial: ZD22282X42 
+    TestNames:
+      - AndroidSettingsVisualTest
